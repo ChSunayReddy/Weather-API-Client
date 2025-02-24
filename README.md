@@ -40,3 +40,4 @@ In conclusion, building a REST API client in Java helps develop essential skills
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/425d1877-7bed-4d17-9810-39d72fbfb6fc)
